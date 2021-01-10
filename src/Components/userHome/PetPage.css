@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+   
+}
+.content{
+    display: flex;
+    flex-flow: column;
+    width: 50vw;
+    box-shadow: 0 60px 20px rgba(90, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 60px 20px rgba(184, 195, 214, 0.017));
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    margin-bottom:52px;
+    padding: 50px;
+    align-items: center;
+    background-color: navajowhite;
+}
+
+.img{
+   width: 250px;
+   height: 250px;
+}
+
+
+
+
